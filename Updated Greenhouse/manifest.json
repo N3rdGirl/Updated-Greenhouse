@@ -1,0 +1,13 @@
+{
+  "Name": "Updated Greenhouse",
+  "Author": "N3rdGirl",
+  "Version": "1.1.0",
+  "Description": "A two-floored Greenhouse that has more space and a spot for trees",
+  "UniqueID": "n3rdgirl.updatedgreenhouse",
+  "UpdateKeys": [ "Nexus:5442" ],
+  "MinimumApiVersion": "3.2",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.3.0"
+  }
+}
